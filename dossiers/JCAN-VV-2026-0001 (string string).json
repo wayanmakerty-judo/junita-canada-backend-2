@@ -1,0 +1,11 @@
+{
+    "numero_dossier": "JCAN-VV-2026-0001",
+    "prenom": "string",
+    "nom": "string",
+    "age": 0,
+    "profession": "string",
+    "statut_professionnel": "string",
+    "type_demande": "VV",
+    "statut": "Analyse préliminaire",
+    "date_creation": "2026-05-30"
+}
